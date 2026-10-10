@@ -1,0 +1,10 @@
+raw data/
+raw_data/
+data/
+*.mhd
+*.raw
+*.npz
+*.png
+__pycache__/
+.vscode/
+venv/
